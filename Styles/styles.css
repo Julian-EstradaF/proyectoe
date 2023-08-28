@@ -1,7 +1,13 @@
 header {
     text-align: center; background-color: rgb(204, 240, 228);
 }
+
 body{
-    background-color: rgb(221, 221, 221);
+    background-color: rgb(214, 213, 213);
 
 }
+
+p {
+    font-family: Arial, sans-serif;
+}
+  
